@@ -1,0 +1,23 @@
+{
+  "name": "Doge #199",
+  "description": "Epic NFT collection consisting of 400 randomly generated Doge and 100 hand drawn Doge in different styles. Mint in progress. Probably nothing.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Indigo Dye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Glow Eyes"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/198.jpg"
+}
