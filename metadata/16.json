@@ -1,0 +1,11 @@
+{
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/16.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Covert"
+    }
+  ],
+  "description": "Cosmic Doge",
+  "name": "Doge #17"
+}

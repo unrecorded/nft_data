@@ -1,0 +1,19 @@
+{
+  "name": "Doge #44",
+  "description": "Epic NFT collection consisting of 400 randomly generated Doge and 100 hand drawn Doge in different styles. Mint in progress. Probably nothing.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maximum Blue Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Steel Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Minecraft Sunglasses"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/43.jpg"
+}

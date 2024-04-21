@@ -1,0 +1,23 @@
+{
+  "name": "Doge #55",
+  "description": "Epic NFT collection consisting of 400 randomly generated Doge and 100 hand drawn Doge in different styles. Mint in progress. Probably nothing.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bright Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Malachite"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Hat"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Devil"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/54.jpg"
+}

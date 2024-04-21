@@ -1,0 +1,11 @@
+{
+  "name": "Doge #6",
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/5.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Mutated"
+    }
+  ],
+  "description": "Is that a cat or a dog?"
+}
