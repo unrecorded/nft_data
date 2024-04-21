@@ -1,0 +1,11 @@
+{
+  "name": "Doge #14",
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/14.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Covert"
+    }
+  ],
+  "description": "SuperDoge"
+}

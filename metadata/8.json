@@ -1,0 +1,11 @@
+{
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/8.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Mutated"
+    }
+  ],
+  "description": "Anonymous Doge",
+  "name": "Doge #8"
+}

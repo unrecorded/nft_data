@@ -1,0 +1,15 @@
+{
+  "name": "Doge #98",
+  "description": "Epic NFT collection consisting of 400 randomly generated Doge and 100 hand drawn Doge in different styles. Mint in progress. Probably nothing.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Persian Plum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Palatinate Blue"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/unrecorded/nft_data/main/data/98.jpg"
+}
